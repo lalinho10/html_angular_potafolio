@@ -1,3 +1,20 @@
+/* Alignemt */
+
+.center {
+    text-align: center;
+}
+
+
+/* SVG */
+
+svg path,
+svg rect {
+    fill: black;
+}
+
+
+/* Animation */
+
 .animated {
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
